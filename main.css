@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "AndroidEuclid";
+    src: url("./fonts/AndroidEuclid-Medium.otf");
+}
+
+@font-face {
+    font-family: "AndroidEuclidBold";
+    src: url("./fonts/AndroidEuclid-Bold.otf");
+}
